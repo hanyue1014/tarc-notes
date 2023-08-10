@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a81d7b64c19f38e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/Software Requirements Specification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/Software Requirements Specification.md",
+                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/Software Requirements Specification.md",
+                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/Software Requirements Specification.md"
+                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md"
               }
             }
           },
@@ -180,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/Software Requirements Specification.md",
+                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,11 +214,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a81d7b64c19f38e1",
+  "active": "65470860ae85e2d7",
   "lastOpenFiles": [
     "README.md",
-    "Y2S1 Software Engineering/Chapter 4/System Requirements.md",
     "Y2S1 Software Engineering/Chapter 4/Software Requirements Specification.md",
+    "Y2S1 Software Engineering/Chapter 4/System Requirements.md",
     "Y2S1 Software Engineering/Chapter 1/Intro to SE.md",
     "Y2S1 Software Engineering/Chapter 2/Process.md",
     "Y2S1 Software Engineering/Chapter 3/Project Management.md",
