@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a036d63dc9770fa0",
+        "id": "a86268202d8b26c3",
         "type": "tabs",
         "children": [
           {
-            "id": "65470860ae85e2d7",
+            "id": "8879b297a0cde894",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,9 +205,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "65470860ae85e2d7",
+  "active": "8879b297a0cde894",
   "lastOpenFiles": [
     "README.md",
+    "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
     "Y2S1 Software Engineering/Chapter 4/Software Requirements Specification.md",
     "Y2S1 Software Engineering/Chapter 4/System Requirements.md",
     "Y2S1 Software Engineering/Chapter 1/Intro to SE.md",
@@ -226,7 +218,6 @@
     "Y2S1 Software Engineering/Chapter 3/Project Costing.md",
     "Y2S1 Software Engineering/Chapter 3/Proposal Writing.md",
     "Y2S1 Software Engineering/Chapter 1/Software.md",
-    "Y2S1 Software Engineering/Chapter 4/User Requirements.md",
     "Y2S1 Software Engineering/Chapter 4/Natural Language & Problems.md",
     "Y2S1 Intro to Software Engineering/Chapter 4/Natural.md",
     "Y2S1 Software Engineering/Chapter 4/Non Functional requirements.md",
