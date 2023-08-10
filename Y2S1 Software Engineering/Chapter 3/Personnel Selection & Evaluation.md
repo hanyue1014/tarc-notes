@@ -1,0 +1,24 @@
+- Ideal case: **skilled** staff with **appropriate experience** will be available to work on the project
+- Select the **right candidate** to join the project team
+- Factors on staff selection
+	- Application domain
+	- Programming language experience
+	- Attitude
+	- Communication ability
+	- Adaptivity
+- Different styles of leadership needed for different situations
+- Thoughtful job design can increase **staff motivation**
+- People are motivated by different factors [Maslow's Motivation Model](https://www.simplypsychology.org/maslow.html)
+- Factors influencing *Group Working*
+	- Group composition
+		- Right balance of skills, experience & personalities in the team
+	- Group Cohesiveness
+		- Group think of itself as a **team** rather than **a collection of individuals working together**
+		- Promoting Group Cohesiveness
+			- Establish group identity
+			- Team building activities
+			- Treat members as **responsible** and **trustworthy**
+	- Group Communication
+		- Members communicate effectively with each other
+	- Group organisation
+		- Group organised in a way that everyone feel **valued** & **satisfied**

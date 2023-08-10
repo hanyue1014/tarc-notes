@@ -1,0 +1,3 @@
+- Normally used by end users
+- Designed to do specific tasks other than tweaking the computer itself
+- Word Processing

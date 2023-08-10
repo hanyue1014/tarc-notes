@@ -1,0 +1,8 @@
+- Cost Estimation: Estimate **resources required** to accomplish project plan
+	- Hardware
+	- Software
+	- People
+- Cost benefit analysis techniques
+	- Payback period
+	- Return on Investment (ROI)
+	- Net Present Value (NPV)

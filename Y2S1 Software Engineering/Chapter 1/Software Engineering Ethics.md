@@ -1,0 +1,4 @@
+- Must be **honest** and **ethically responsible** to be respected as professionals 
+- Ethical Behaviour not just uphold the law, but involves following a set of **principles that are morally correct**
+	- [ACM/IEEE Code of Ethics](ACM,%20IEEE%20Code%20of%20Ethics.md)
+- [Professional Responsibilities](Professional%20Responsibility.md)

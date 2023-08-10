@@ -1,0 +1,17 @@
+- A continuing project activity
+- Project manager must keep track of project's progress in terms of **triple constraints**
+	- Triple Constraints
+		- Time
+		- Cost
+		- Quality
+- Must compare actual project progress with planned project progress
+	- Possible problems
+		- Behind schedule (slippage)
+		- Over budget
+		- Unable to achieve agreed quality attribute
+- Need to take **corrective actions** depending on situation
+	- Add more staff
+	- Reassign tasks
+	- Use OverTime
+	- Encourage staff
+- May include **informal monitoring**, not just **formal project reviews**

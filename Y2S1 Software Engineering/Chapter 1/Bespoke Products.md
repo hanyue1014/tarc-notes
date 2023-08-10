@@ -1,0 +1,5 @@
+- **Commissioned** by specific customer to meet **their own needs**
+- Eg.
+	- Embedded Control System
+	- Traffic Monitoring Systems
+	- Air Traffic Control Software

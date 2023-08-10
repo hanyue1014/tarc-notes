@@ -1,0 +1,6 @@
+- Two ways to report on the project
+	- Document
+	- Presentation
+- Project managers should report on the project
+- Write **concise** & **coherent** documents
+- Project managers should be able to communicate effectively both **orally** & **in writing**
