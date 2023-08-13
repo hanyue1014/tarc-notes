@@ -1,5 +1,3 @@
-Topic: [[Y2S1 Software Engineering]]
-
 ## What is a Process
 - A series of steps taken to produce an intended output
 ## Steps & Process
