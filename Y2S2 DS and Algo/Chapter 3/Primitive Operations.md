@@ -1,0 +1,7 @@
+- Assigning value to variable
+- Following object reference
+- Perform arithmetic operation
+- Comparing two numbers
+- Accessing a single element of array by index
+- Calling method
+- Returning from a method
