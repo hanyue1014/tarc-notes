@@ -1,0 +1,4 @@
+- Fundamental of geometric object
+- Point == position in space in 3D geometric system
+- Useful at specifying geometric objects
+- Need additional information such as distance between two points

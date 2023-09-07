@@ -1,0 +1,7 @@
+- Have direction + magnitude
+- Eg.
+	- Force
+	- Velocity
+	- Directed line segments
+ - However, vectors lack position, they do not have fixed position in space
+	 - Vectors are the same as long as they have same direction and magnitude

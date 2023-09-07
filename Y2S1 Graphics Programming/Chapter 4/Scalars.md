@@ -1,0 +1,2 @@
+- Have magnitude (how long, far, high)
+- Eg. length, mass, temperature
