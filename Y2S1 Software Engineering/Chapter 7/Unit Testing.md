@@ -1,0 +1,3 @@
+- Tests on individual components to ensure that they operate correctly
+- Based on understanding on how components should work
+- Testing performed by the software developer

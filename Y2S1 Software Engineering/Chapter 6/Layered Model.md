@@ -1,0 +1,6 @@
+- Also called the **abstract machine model**
+- Use to model the interfacing of sub-systems
+- Organises the system into a set of layers
+	- Each provide a set of services
+- Supports incremental development of sub-systems in different layers
+	- When one layer changes, only adjacent layer is affected

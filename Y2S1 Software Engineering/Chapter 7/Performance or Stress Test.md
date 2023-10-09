@@ -1,0 +1,3 @@
+- Once system fully integrated, test the system to ensure it can process intended load
+- Stressing the system by going beyond the specified limits
+	- To test how well system cope with overload situation

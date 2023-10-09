@@ -1,0 +1,6 @@
+- Tests integration of sub-systems
+- Tests to find discrepancies between the system and its original objective, current specification and system documentations
+- Primary concern still is compatibility of individual modules
+- Basically involve 2 phases
+	- Integration Testing
+	- Release Testing

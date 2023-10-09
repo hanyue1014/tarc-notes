@@ -1,0 +1,1 @@
+- Tests collection of modules, which have been integrated into sub-systems

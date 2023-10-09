@@ -1,0 +1,3 @@
+- Extracted from organisation files
+- After system partially constructed, programmers or analysts often ask users to key in a set of data from normal activities
+- Difficult to obtain sufficient amounts of live data to conduct extensive testing
