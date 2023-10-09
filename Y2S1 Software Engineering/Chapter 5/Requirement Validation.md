@@ -1,0 +1,18 @@
+> Are we building the right system
+- The process of checking that the defined requirements are for development
+- Validates that the defined system is what the customer really wants
+- Validity
+	- Function user wanted is correct, confirm needed
+- Consistency
+	- No conflict between requirements
+- Completeness
+	- All functions needed is included
+- Realism check
+	- [[Feasibility studies]]
+- Verifiability
+	- Requirements are measurable
+	- To reduce potential dispute
+- Methods to validate
+	- Prototyping
+	- Structured walkthrough 
+	- Formal technical reviews

@@ -1,0 +1,2 @@
+- Requirements can conflict when multiple stakeholders are involved
+- This activity is to **prioritise requirements**, **find and resolve** the conflicts through means like negotiation

@@ -12,5 +12,5 @@
 ## Software System Requirements include..
 - [Functional requirements](Functional%20requirements.md)
 - [Non Functional Requirements](Non%20Functional%20requirements.md)
-## [Software Requirements Specification](Software%20Requirements%20Specification.md)
+## [System Requirements Specification](System%20Requirements%20Specification.md)
 - A document heheh

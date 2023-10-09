@@ -1,0 +1,5 @@
+- Identified requirements are documented and checked whether they are
+	- Complete
+	- Consistent
+	- In accordance to what the stakeholders want
+- May produce formal and informal requirement documents
