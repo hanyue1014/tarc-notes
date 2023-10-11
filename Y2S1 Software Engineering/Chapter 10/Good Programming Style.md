@@ -1,0 +1,5 @@
+- Improves readability and understandability
+	- Meaningful variable and function name
+	- Consistent code style
+- Proper comments and documentation
+	- Enhance code understandability let the next developer taking over the maintenance task comprehend the code in a shorter time

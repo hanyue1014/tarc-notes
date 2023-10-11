@@ -1,0 +1,3 @@
+- Technology obsolescence issue
+- Multiple round of maintenance activity -> code structure might be messy and lack of documentation updates
+- Organisation may lack developers with older technology knowledge and skill

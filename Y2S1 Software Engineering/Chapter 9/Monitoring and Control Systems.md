@@ -1,0 +1,22 @@
+- Periodically poll a set of sensors that observe and capture information from the system's environment, analysing them and manage the operation of various processes, devices or systems
+- Takes actions depending on the sensor readings by issuing command to the actuators
+
+## Components
+- Sensor and Data Acquisition
+	- Measures the external conditions of the system
+	- Data collected via sensor for processing and analysis process
+- Data Processing and Analysis
+	- Collected data is analysed
+		- Check for anomalies
+		- Identify behaviour's patterns and trends
+		- Involve certain techniques like machine learning
+	- Control algorithms
+		- Determine how control system is supposed to react according to the external changes
+		- Eg.
+			- If temperature too high, smart home system send a signal to air conditioner to switch temperature to a lower one
+- Actuators and Control Devices
+	- Refers to devices that responds to the control signal
+	- Normally makes adjustments to the system's behaviour
+- UI
+- Communication Protocols
+	- Protocols used to transmit data among different components in monitoring and control system

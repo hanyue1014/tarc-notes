@@ -1,0 +1,2 @@
+- Improve on program structure 
+	- Simplify complex conditions

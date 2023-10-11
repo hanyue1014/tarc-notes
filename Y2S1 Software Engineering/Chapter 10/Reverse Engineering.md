@@ -1,0 +1,4 @@
+- Derive system design and specification or documentation
+- Analyse software with the objective of recovering its design and specification (documentation)
+- Documentation can be used as an input to the requirement specification for that program's replacement
+- Design and specification may be reverse engineered to help program maintenance

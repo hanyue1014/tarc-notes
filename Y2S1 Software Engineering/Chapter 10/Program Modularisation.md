@@ -1,0 +1,4 @@
+- Group related parts
+- Remove redundancy
+- Change architecture (possible)
+	- Centralised system run on distributed platform

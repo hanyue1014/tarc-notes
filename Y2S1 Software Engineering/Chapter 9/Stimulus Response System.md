@@ -1,0 +1,12 @@
+## Class of Stimuli
+- Periodic stimuli (predictable events)
+	- Occurs as predictable time intervals
+	- Eg.
+		- System examine a sensor every 50ms and respond depending on the sensor value
+- Aperiodic stimuli (unpredictable events)
+	- Occurs irregularly
+	- Events that happens not following the scheduled interval time
+	- Normally resulted from external interaction or events
+	- Eg.
+		- I/O interrupt in a computing system
+		- Car's air bag system

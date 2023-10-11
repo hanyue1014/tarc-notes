@@ -1,0 +1,12 @@
+
+- [[Module Independence]]
+- [[High Level Programming Language]]
+- [[Good Programming Style]]
+- [[Program Validation and Testing]]
+- [[Documentation Quality]]
+- [[Configuration Management Techniques]]
+- [[Application Domain]]
+- [[Staff Stability]]
+- [[Age of the Program]]
+- [[Dependence on External Environment]]
+- [[Hardware Stability]]

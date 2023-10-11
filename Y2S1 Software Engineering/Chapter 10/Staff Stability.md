@@ -1,0 +1,1 @@
+- Low turn over staff in organisation will reduce the probability of changing resource to carry out the maintenance task

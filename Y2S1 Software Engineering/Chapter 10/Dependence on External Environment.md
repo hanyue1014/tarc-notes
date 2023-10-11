@@ -1,0 +1,4 @@
+- Triggers system maintenance
+	- Changes of technologies
+	- Change of market demand
+- If system does not come with predictive design, flexible or robust error handling when interact with external components, regular maintenance meed to be carried out

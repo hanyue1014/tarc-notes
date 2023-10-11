@@ -1,0 +1,6 @@
+- Extensive testing activities identify the system defects earlier
+- Encourages better coding practices and higher code quality
+- Prevent issues earlier in the software development process
+- Results in more stable and maintainable system
+- Emphasis on quality assurance and quality control activity
+	- Reduce resource needed for maintenance activity

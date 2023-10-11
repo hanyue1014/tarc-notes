@@ -23,6 +23,6 @@ Topic: [[Y2S1 DS and Algo]]
 		- Steps
 			- Implement the ADT in a way where the programmer can use without knowing how it is implemented
 - Code Maintainability
-	- [[Perfective]]
-	- [[Corrective]]
-	- [[Adaptive]]
+	- [[Perfective Maintenance | Perfective]]
+	- [[Corrective Maintenance | Corrective]]
+	- [[Adaptive Maintenance | Adaptive]]

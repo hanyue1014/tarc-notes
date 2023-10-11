@@ -1,0 +1,5 @@
+- Help track the control the software product's change
+- Include version changes, system change logs
+	- Provide clear record of past modifications and updates
+- Make system changes easier to be tracked
+	- Avoid repeating past mistakes

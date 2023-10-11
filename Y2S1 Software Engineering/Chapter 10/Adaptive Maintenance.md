@@ -1,0 +1,3 @@
+- Performed to adapt to new environment
+	- New hardware
+	- New OS

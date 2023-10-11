@@ -1,0 +1,3 @@
+- If developers are familiar with the domain
+	- Shorter learning curve
+	- Able to adapt to changes and new requirements

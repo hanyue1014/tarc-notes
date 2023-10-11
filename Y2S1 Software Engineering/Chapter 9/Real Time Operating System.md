@@ -1,0 +1,25 @@
+- An analogous operating system in a general-purpose computer
+- Manages processes and resource allocation
+- Starts and stops appropriate process so stimuli can be handled
+- Allocates memory and processor resources
+
+## Components of Real Time Operating System
+- Real time clock
+	- Provides info to schedule process periodically
+	- A fundamental component that helps to keep track of the time in the system
+	- Important when timing and synchronisation is a critical factor
+- Interrupt handler
+	- Manage aperiodic request for service
+- Scheduler
+	- Examine processes that can be executed and choose one of them for execution
+	- Determine task priority and execute them according to predefined priority level and scheduling priority
+- Resource manager
+	- Responsible for system resource management
+	- Task allocation and deallocation
+	- Policy enforcement
+		- Resource limitation
+		- Priority based resource allocation
+- Dispatcher
+	- Switch task execution from one to another
+	- Preemptive multitasking
+		- Allow OS to respond promptly in task changing

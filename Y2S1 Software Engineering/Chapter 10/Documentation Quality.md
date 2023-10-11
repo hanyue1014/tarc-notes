@@ -1,0 +1,4 @@
+- High quality documentation
+	- Enhance understanding of developers to the design details of the current system
+	- Provide clear guidance to the developers
+	- Ensure smooth information transfer to next programer in charge without any issues
