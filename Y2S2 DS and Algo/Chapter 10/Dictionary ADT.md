@@ -1,0 +1,8 @@
+- Has entries that is made up by 2 parts
+	- Search Key
+	- Value associated with the key
+- Organises and identifies entries by their search keys
+	- Use the entry's search key to retrieve or remove an entry from a dictionary
+- Maps
+- Table
+- Associative Array

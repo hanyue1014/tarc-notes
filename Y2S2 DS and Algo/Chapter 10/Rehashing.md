@@ -1,0 +1,4 @@
+- Expand hash table to a size that is both prime and at least double in its current size
+- Hash function depends on size of the table
+	- So cannot copy elements from old array and put them in the same spot
+	- Need to apply the hash function to each entry to determine their new proper position in the table
