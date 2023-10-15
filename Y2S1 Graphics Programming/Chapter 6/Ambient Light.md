@@ -1,0 +1,2 @@
+- Used to model light sources that comes from every direction in the same intensity
+- Normally represents environment's natural light or global light

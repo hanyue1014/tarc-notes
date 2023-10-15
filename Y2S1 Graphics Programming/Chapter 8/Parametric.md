@@ -1,0 +1,12 @@
+- Use a different equation for each variable
+	- x = f(u)
+	- y = g(u)
+	- z = h(u)
+- Surface require 2 parameters
+	- x = f(u, v)
+	- y = g(u, v)
+	- z = h(u, v)
+- Most curve design techniques expressed in parametric form
+	- [[Bézier curves]]
+	- [[Bspline curves]]
+	- [[NURBS (Non-Uniform Rational Basis-Spline)]] Curves

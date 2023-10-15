@@ -1,0 +1,1 @@
+- Map rectangle in u, v space to cylinder of radius r and height h in world coordinates

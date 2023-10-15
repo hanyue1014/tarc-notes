@@ -1,0 +1,15 @@
+- Program used to process every pixel drawn to the screen
+- Called many times per pixel fro every object in the corresponding space, even if it is occluded (被遮住), Z-buffer will deal with that later
+- A computation kernel function that computes color and other attributes of each pixel
+- Ranges from
+	- Always output the same color
+- To
+	- Apply lighting value
+	- Doing bump mapping
+	- Shadows
+	- Specular highlights
+	- Translucency
+	- etc
+- Can alter the depth of the pixel
+- Can output more than one color if multiple render targets are active
+- Alone cannot produce very complex effects as it operates only on a single pixel, without knowledge of a scene's geometry

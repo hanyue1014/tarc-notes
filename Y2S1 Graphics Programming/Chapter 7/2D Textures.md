@@ -1,0 +1,6 @@
+- Use an image mapped onto an object
+- Scale image to fit / tile the object with a number of copies of the image
+- Only cover surface of an object
+- [[Plane Map]]
+- [[Cylindrical Map]]
+- [[Spherical Map]]

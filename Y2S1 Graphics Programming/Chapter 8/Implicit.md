@@ -1,0 +1,8 @@
+- 2D curves
+	- g(x, y) = 0
+- More robust
+	- Lines (ax + by + c = 0)
+	- Circles ($x^2 + y^2 - r^2 = 0$)
+- 3D curves
+	- g(x, y, z) = 0 defines a surface
+	- Intersect two surface to get a curve

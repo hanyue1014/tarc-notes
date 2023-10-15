@@ -1,0 +1,7 @@
+- Most familiar form of curve in 2D
+	- y = f(x)
+	- Curve is generated if we express f as a polynomial function
+- Extension to 3D
+	- y = f(x)
+	- z = g(x)
+	- z = f(x, y) defines a surface

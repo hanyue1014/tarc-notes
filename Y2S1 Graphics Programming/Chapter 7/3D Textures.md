@@ -1,0 +1,3 @@
+- Logical extension of the traditional 2D texture
+- Objects cut from the texture space
+	- Like sculpting a statue from a stone

@@ -1,0 +1,4 @@
+- Allow the world to be reflected on object without modelling the physics
+- Ways
+	- Draw environment
+	- Draw [[Cube Mapped Object]]

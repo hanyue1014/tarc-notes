@@ -1,0 +1,1 @@
+- Scale the texture defined in s-t coordinates to unit square

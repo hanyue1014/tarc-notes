@@ -1,0 +1,11 @@
+- A program used to process every vertex passed to the GPU
+- Run once for each vertex given to the graphics processor
+- Transform each vertex 3D position in virtual space to 2D coordinates which it appears on the screen (with depth value for Z buffer)
+- Manipulates properties
+	- Position
+	- Color
+	- Texture coordinate
+- Cannot create new vertices
+- Output goes to next stage in pipeline
+	- Geometry shader if present
+	- Rasteriser otherwise
