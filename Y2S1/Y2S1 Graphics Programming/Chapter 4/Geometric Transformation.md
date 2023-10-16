@@ -1,14 +1,14 @@
 Topic: [[Y2S1 Graphics Programming]]
 
 # Basic Elements in Geometry
-- [[Y2S1 Graphics Programming/Chapter 4/Points|Points]]
+- [[Y2S1/Y2S1 Graphics Programming/Chapter 4/Points|Points]]
 - [[Scalars]]
 - [[Vectors]]
 > If we only use vectors to represent coordinate system, there is no way we know where should the points be located
 
 # Affine Spaces
 %%let's hope I still rmb and understand this in the future%%
-- Use [[Y2S1 Graphics Programming/Chapter 4/Points|Points]] + [[Vectors]] to form a frame, with the point representing origin and vectors representing the axises and their directions, denoted by $(P_0, v_1, v_2, v_3)$ where $P_0$ represents the origin point, $v_1, v_2, v_3$ represents the axises respectively
+- Use [[Y2S1/Y2S1 Graphics Programming/Chapter 4/Points|Points]] + [[Vectors]] to form a frame, with the point representing origin and vectors representing the axises and their directions, denoted by $(P_0, v_1, v_2, v_3)$ where $P_0$ represents the origin point, $v_1, v_2, v_3$ represents the axises respectively
 - In this case, we can say that
 - For any point P(x, y, z), the position can be found by $xv_1 + yv_2 + zv_3 + P_0$
 - For any vector W(i, j, k), it can be found through $iv_1 + jv_2 + kv_3$

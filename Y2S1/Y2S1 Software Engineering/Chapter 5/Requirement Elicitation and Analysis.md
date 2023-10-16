@@ -1,5 +1,5 @@
 ## What
-- Process of deriving the [[system requirements]]
+- Process of deriving the [[System Requirements]]
 - Work with stakeholders to find
 	- Application domain
 	- Service provided
