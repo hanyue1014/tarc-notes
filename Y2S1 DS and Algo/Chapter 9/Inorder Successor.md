@@ -1,0 +1,1 @@
+- The leftmost node of the right subtree of a root in [[Binary Search Trees]]

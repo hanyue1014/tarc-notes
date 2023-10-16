@@ -1,0 +1,1 @@
+- The case in a recursive algorithm in which the problem is specified as a smaller version of the original problem

@@ -1,0 +1,1 @@
+- The case for which the solution is obtained directly

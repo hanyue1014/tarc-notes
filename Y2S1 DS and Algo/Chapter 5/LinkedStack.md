@@ -1,0 +1,3 @@
+- Implemented with only a head reference
+- Items pushed to and popped from head of the stack
+- Traversal rarely needed

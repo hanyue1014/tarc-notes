@@ -1,0 +1,1 @@
+- Algorithm that finds solution to a given problem by reducing problem to smaller version of itself

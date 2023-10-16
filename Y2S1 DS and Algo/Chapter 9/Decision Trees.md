@@ -1,0 +1,2 @@
+- Can be the basis of an expert system
+- Help users solve problems and make decisions

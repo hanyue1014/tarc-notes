@@ -1,0 +1,5 @@
+- Represents an algebraic tree whose operators are binary
+- Root of every subtree => operator
+- [[Inorder Traversal]] of an expression tree visit variable and operators in the tree in the order and makes them appear in the original infix expression
+- [[Preorder Traversal]] produces prefix form
+- [[Postorder Traversal]] produces postfix form

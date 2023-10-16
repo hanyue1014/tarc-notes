@@ -1,0 +1,17 @@
+- Previous ADTs place data in linear order
+- Some data organisation require categorising data into groups and subgroups
+	- Hierarchical classification
+	- Data item appear at various level within the organisation
+- Tree provide hierarchical organisation in which the data items have ancestors and descendants 
+- Collection of nodes connected by edges (links)
+- Top level is a single node called root
+	- The only node with no parents
+- Nodes at one level are children of the previous level
+- Node with children is parent of the nodes
+- Nodes with same parent are siblings
+- Node with no children is a leaf node
+- A node is reached from root by a path
+	- Length of path is number of edges that compose it
+- Height is the number of levels in the tree
+- Subtree of a node is a tree rooted at a child of that node (make one of the child the root of the subtree)
+- Mostly implemented in a link structure

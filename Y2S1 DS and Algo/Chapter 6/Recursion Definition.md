@@ -1,0 +1,1 @@
+- A definition in which something is defined in terms of a smaller version of itself

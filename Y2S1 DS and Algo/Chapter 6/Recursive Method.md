@@ -1,0 +1,2 @@
+- A method that calls itself
+- Implements [[Recursive Algorithms]]
